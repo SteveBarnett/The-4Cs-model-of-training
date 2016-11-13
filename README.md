@@ -7,7 +7,7 @@
 1. Share your favorite thing about training with every other person in the room
 - (crisp) high five!
 
-#### Stickies (activity, 15m)
+#### How now? (activity, 15m)
 
 1. **What** do you train? 1 thing per sticky. Group the stickies.
 2. **How** do you train? 1 thing per sticky. Group the stickies.
@@ -17,12 +17,14 @@
 
 #### Optimise for learners (chat, 5m)
 
-- **Positive environment** Q: What does that mean? A: Friendly, Collaborative, Asking questions is the sign of a good learner.
+- **Positive environment**
+    - Q: What does that mean? A: Friendly, Collaborative, Progress- and goal- aware. Asking questions is the sign of a good learner.
+    - Q: Why? A: Greatly improves learning. Uses problem-solving part of brain.
 - **The Learning cycle**
     - (re)do &rarr; feedback &rarr; reflection &rarr; repeat.
-    - reflection is when the learning sticks. Link the before and after. Pair share is especially good for this.
+    - reflection is when the learning sticks. Link the before and after. Pair share is especially good for this because people learn by teaching too.
 - **Primacy-Recency Principle**
-    
+
 #### X is better than Y (activity, 5m)
 
 - Match up the cards to complete “X is better than Y”.
@@ -36,8 +38,8 @@ Training from the back of the room. Sharon Bowman. http://bowperson.com/
 - **Connections** Q: To what? A: Other learners, Topic, Goal, Outcomes.
 - **Concepts** Mini-lectures, Reading material
 - **Concrete Practice** Do the thing
-- **Conclusions** Link the before and after. Pair share is especially good for this.
-    
+- **Conclusions** Link the before and after.
+
 #### Lesson plan idea (activity, 10m)
 
 - Pick your favorite from “What do you teach?”
