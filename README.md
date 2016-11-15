@@ -10,11 +10,11 @@
 #### How now? (activity, 15m)
 
 1. **What** do you train?
-  - 1 thing per sticky. Group the stickies.
+    - 1 thing per sticky. Group the stickies.
 2. **How** do you train?
-  - 1 thing per sticky. Group the stickies.
+    - 1 thing per sticky. Group the stickies.
 3. What’s the **goal** of the training?
-  - 1 thing per sticky. Group the stickies.
+    - 1 thing per sticky. Group the stickies.
 
 ### &#8680; Concepts
 
