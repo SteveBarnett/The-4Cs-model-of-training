@@ -23,10 +23,10 @@
 - **Positive environment**
     - Q: What does that mean?
     - A: Friendly, Collaborative, Progress- and goal- aware.
-    - Asking questions is the sign of a good learner. Give QQ example.
+        - Asking questions is the sign of a good learner. Give QQ example.
     - Q: Why?
     - A: Greatly improves learning. Uses problem-solving part of brain.
-    - Hands on your head for neocortex (relaxed, open, faster learning), reptilian (stressed, slow or stopped learning).
+        - Hands on your head for neocortex (relaxed, open, faster learning), reptilian (stressed, slow or stopped learning).
 - **The Learning cycle**
     - (re)do &rarr; feedback &rarr; reflection &rarr; repeat.
     - reflection is when the learning sticks. Link the before and after. Pair share is especially good for this because people learn by teaching too.
